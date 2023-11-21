@@ -14,3 +14,8 @@ print(time)
 print(cr)
 print(reg)
 
+
+ammrion = str("batter")
+print(type(ammrion))
+print(isinstance(ammrion, str))
+print(type(ammrion) == str)
